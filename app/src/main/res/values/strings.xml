@@ -3,4 +3,6 @@
     <string name="save">SAVE</string>
     <string name="load">LOAD</string>
     <string name="save_text">Введите текст для сохранения</string>
+    <string name="sharedpreferences">Используем SharedPreferences</string>
+    <string name="internal_storage">Используем Internal Storage</string>
 </resources>
